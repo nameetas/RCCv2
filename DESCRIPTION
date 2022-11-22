@@ -1,0 +1,12 @@
+Package: RCCv2
+Type: Package
+Title: Recursive Consensus Clustering v2
+Version: 0.2.0
+Author: Nameeta Shah
+Maintainer: Nameeta Shah <nameeta.shah@gmail.com>
+Description: RCCv2 is a clustering package for single-cell RNA-seq datasets. The package is an upgrade from RCC package which uses Seurat as the clustering tool. The original RCC package can be found here: https://github.com/MSCTR/RecursiveConsensusClustering 
+License: GNU GPLv3
+Encoding: UTF-8
+LazyData: true
+Imports: scran, Seurat, ggplot2, matrixStats, harmony, ggpubr, data.table, gsubfn, stringr
+RoxygenNote: 7.2.2
