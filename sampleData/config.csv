@@ -1,0 +1,7 @@
+Expression Matrix,counts.rds
+SampleInfo File,info.csv
+Minimum #samples for clustering,30
+Output Dir,./RCC
+harmony,sample
+attrVar,sample
+log2cpm,/media/user/disk2/completeAnalysis/visium_15Sept/log2cpm.rds
